@@ -1,5 +1,12 @@
 # Fresel Public
 
-```shell
-private int i
-```
+This repository contains public resources used by Fresel projects.
+
+* XML Schema
+* XML Files
+  * Config
+  * Settings
+  * Bootstrap
+* Images
+* Icons
+* etc...
