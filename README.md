@@ -1,5 +1,5 @@
 # Fresel Public
 
-```java
+```bash
 private int i
 ```
