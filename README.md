@@ -1,5 +1,5 @@
 # Fresel Public
 
-```bin/bash
+```shell
 private int i
 ```
