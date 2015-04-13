@@ -12,13 +12,13 @@
 
 <devices>
     <device>
-        <name>Edit 2 Google DNS A</name>
+        <name>Google DNS A</name>
         <hostname>google-public-dns-a.google.com</hostname>
         <ipaddress>8.8.8.8</ipaddress>
         <port></port>
     </device>
     <device>
-        <name>Edit 2 Google DNS B</name>
+        <name>Google DNS B</name>
         <hostname>google-public-dns-b.google.com</hostname>
         <ipaddress>8.8.4.4</ipaddress>
         <port></port>
