@@ -11,4 +11,4 @@ This repository contains public resources used by Fresel projects.
 * Icons
 * etc...
 
-Project is grouped by resource type.
+Folder structure grouped by project.
